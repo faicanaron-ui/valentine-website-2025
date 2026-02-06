@@ -32,7 +32,6 @@ const CONFIG = {
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
-    },
 
 
     // Messages that appear after they say "Yes!"
